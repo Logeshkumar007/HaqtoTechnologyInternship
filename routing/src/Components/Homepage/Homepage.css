@@ -1,0 +1,13 @@
+.navigations{
+    display: flex;
+    /* align-items: center; */
+    
+    margin-right: 4vh;
+    margin-top: 1vh;
+
+    justify-content:right;
+    
+}
+.aboutlink{
+    margin-right: 10vh;
+}
